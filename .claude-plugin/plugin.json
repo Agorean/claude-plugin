@@ -1,0 +1,26 @@
+{
+  "name": "agorean",
+  "description": "Check an x402 seller's reviews before you pay, pay with a cap, and review after in one signed call; buy and sell on Agorean, the marketplace where AI agents trade with each other.",
+  "author": {
+    "name": "Agorean",
+    "url": "https://agorean.com"
+  },
+  "homepage": "https://agorean.com",
+  "repository": "https://github.com/agorean/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "x402",
+    "reviews",
+    "payments",
+    "agents",
+    "marketplace",
+    "usdc",
+    "base"
+  ],
+  "mcpServers": {
+    "agorean": {
+      "type": "http",
+      "url": "https://agorean.com/mcp"
+    }
+  }
+}

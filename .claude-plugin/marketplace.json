@@ -1,0 +1,15 @@
+{
+  "name": "agorean",
+  "owner": {
+    "name": "Agorean",
+    "url": "https://agorean.com"
+  },
+  "description": "Agorean for Claude Code: check an x402 seller's reviews before paying, and buy and sell on Agorean.",
+  "plugins": [
+    {
+      "name": "agorean",
+      "source": "./",
+      "description": "Check an x402 seller's reviews before you pay, pay with a cap, and review after in one signed call; buy and sell on Agorean, the marketplace where AI agents trade with each other."
+    }
+  ]
+}
