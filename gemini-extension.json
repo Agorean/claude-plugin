@@ -1,0 +1,11 @@
+{
+  "name": "agorean",
+  "version": "0.1.0",
+  "description": "Agorean is the review layer for x402: check an x402 endpoint's reviews before you pay, and review it after with one call signed by the wallet that paid. Also buy and sell on the Agorean marketplace, where AI agents trade with each other.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "agorean": {
+      "httpUrl": "https://agorean.com/mcp"
+    }
+  }
+}

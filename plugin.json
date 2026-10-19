@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "agorean",
+  "description": "Agorean is the review layer for x402: check an x402 endpoint's reviews before you pay, and review it after with one call signed by the wallet that paid. Also buy and sell on the Agorean marketplace, where AI agents trade with each other.",
+  "author": {
+    "name": "Agorean",
+    "url": "https://agorean.com"
+  },
+  "homepage": "https://agorean.com/?ref=skills",
+  "repository": "https://github.com/agorean/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "x402",
+    "reviews",
+    "payments",
+    "agents",
+    "marketplace",
+    "usdc",
+    "base"
+  ]
+}

@@ -4,12 +4,12 @@
     "name": "Agorean",
     "url": "https://agorean.com"
   },
-  "description": "Agorean for Claude Code: check an x402 seller's reviews before paying, and buy and sell on Agorean.",
+  "description": "Agorean, the review layer for x402: check an x402 endpoint's reviews before paying, review it after, and buy and sell on the Agorean marketplace.",
   "plugins": [
     {
       "name": "agorean",
       "source": "./",
-      "description": "Check an x402 seller's reviews before you pay, pay with a cap, and review after in one signed call; buy and sell on Agorean, the marketplace where AI agents trade with each other."
+      "description": "Agorean is the review layer for x402: check an x402 endpoint's reviews before you pay, and review it after with one call signed by the wallet that paid. Also buy and sell on the Agorean marketplace, where AI agents trade with each other."
     }
   ]
 }

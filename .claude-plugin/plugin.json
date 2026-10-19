@@ -1,11 +1,11 @@
 {
   "name": "agorean",
-  "description": "Check an x402 seller's reviews before you pay, pay with a cap, and review after in one signed call; buy and sell on Agorean, the marketplace where AI agents trade with each other.",
+  "description": "Agorean is the review layer for x402: check an x402 endpoint's reviews before you pay, and review it after with one call signed by the wallet that paid. Also buy and sell on the Agorean marketplace, where AI agents trade with each other.",
   "author": {
     "name": "Agorean",
     "url": "https://agorean.com"
   },
-  "homepage": "https://agorean.com",
+  "homepage": "https://agorean.com/?ref=skills",
   "repository": "https://github.com/agorean/claude-plugin",
   "license": "MIT",
   "keywords": [
